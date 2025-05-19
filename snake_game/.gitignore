@@ -1,0 +1,16 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE configurations (for PyCharm and other editors)
+.idea/
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Other common files to ignore
+*.log
+*.swp
