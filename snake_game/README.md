@@ -39,7 +39,7 @@ How to Play
 
 Demo
 
-![Snake Game Demo](assets/demo.gif)
+![Demo](assets/demo.gif)
 
 
 ---
